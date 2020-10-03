@@ -1,0 +1,85 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--Light/Day Mode theme-->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <!--Default settings-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="fontFamily">@font/abeezee</item>
+        <item name="android:textColorPrimary">@color/dark_grey</item>
+        <item name="android:textColorSecondary">@color/dark_grey</item>
+        <item name="android:textColorTertiary">@color/grey</item>
+
+        <item name="android:ambientShadowAlpha">0.1</item>
+        <item name="android:spotShadowAlpha">0.1</item>
+
+        <item name="colorControlNormal">@color/login_button_color2</item>
+        <item name="colorControlActivated">@color/login_button_color2</item>
+        <item name="colorControlHighlight">@color/login_button_color2</item>
+
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowActivityTransitions">true</item>
+
+        <!--Customize Attribute-->
+        <item name="android:windowBackground">@drawable/bg1</item>
+        <item name="secondaryBackground">@color/light_white</item>
+
+        <item name="setting_icon1">@drawable/permission</item>
+        <item name="setting_icon2">@drawable/ic_theme</item>
+
+        <item name="loginTextbox">@color/white</item>
+
+        <item name="nfcButton">@drawable/home_nfc</item>
+        <item name="qrButton">@drawable/home_qr</item>
+        <item name="historyButton">@drawable/home_history</item>
+
+        <item name="nfc_bg">@drawable/nfc_bg</item>
+        <item name="qr_bg">@drawable/qrcode_bg</item>
+        <item name="history_bg">@color/history_3</item>
+
+        <item name="ic_feedback">@drawable/ic_feedback</item>
+
+    </style>
+
+    <!--Dark/Night Mode theme-->
+    <style name="darkTheme" parent="Theme.MaterialComponents.NoActionBar">
+
+        <!--Part of color settings-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:textColorTertiary">@color/light_white</item>
+        <item name="fontFamily">@font/abeezee</item>
+        <item name="android:ambientShadowAlpha">0.1</item>
+        <item name="android:spotShadowAlpha">0.1</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!--Customize Attribute-->
+        <item name="setting_icon1">@drawable/ic_permission_dark</item>
+        <item name="setting_icon2">@drawable/ic_theme_dark</item>
+
+        <item name="loginTextbox">@color/grey</item>
+
+        <item name="secondaryBackground">@color/dark_grey</item>
+
+        <item name="nfcButton">@drawable/home_nfc_dark</item>
+        <item name="qrButton">@drawable/home_qr_dark</item>
+        <item name="historyButton">@drawable/home_history_dark</item>
+
+        <item name="nfc_bg">@color/dark_bg</item>
+        <item name="qr_bg">@color/dark_bg</item>
+        <item name="history_bg">@color/dark_bg</item>
+
+        <item name="ic_feedback">@drawable/ic_feedback_dark</item>
+
+    </style>
+
+</resources>

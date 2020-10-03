@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.example.yzuapp",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.3",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "resources-debug.ap_",
+      "properties": {
+        "packageId": "com.example.yzuapp",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

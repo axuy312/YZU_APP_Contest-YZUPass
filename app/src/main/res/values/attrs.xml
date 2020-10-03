@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="decor">
+
+        <!--Activity 背景顏色-->
+        <attr name="android:windowBackground" format="reference" />
+        <attr name="secondaryBackground" format="color" />
+
+        <!--Settign Page icon-->
+        <attr name="setting_icon1" format="reference"/>
+        <attr name="setting_icon2" format="reference"/>
+
+        <!--Login Page-->
+        <attr name="loginTextbox" format="color"/>
+
+        <!--Home Page Button Color-->
+        <attr name="nfcButton" format="reference"/>
+        <attr name="qrButton" format="reference"/>
+        <attr name="historyButton" format="reference"/>
+
+        <attr name="nfc_bg" format="reference"/>
+        <attr name="qr_bg" format="reference"/>
+        <attr name="history_bg" format="reference"/>
+
+        <attr name="ic_feedback" format="reference"/>
+
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B19900</color>
+    <color name="colorPrimaryDark">#E6E6E6</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFF</color>
+    <color name="light_white">#F8F8F8</color>
+    <color name="grey">#707070</color>
+    <color name="dark_grey">#121212</color>
+
+    <!--Gradient Color-->
+    <color name="bg_color">#FEF7E1</color>
+    <color name="login_button_color2">#B19900</color>
+
+    <!--Login color-->
+    <color name="login_hint">#C3C3C3</color>
+
+    <!--Home Button color-->
+    <color name="nfc_1">#66BB6A</color>
+    <color name="nfc_2">#802ECC71</color>
+    <color name="qr_1">#03A9F4</color>
+    <color name="qr_2">#8003A9F4</color>
+    <color name="history_1">#F39C12</color>
+    <color name="history_2">#70F39C12</color>
+    <color name="history_3">#FFF6E7</color>
+
+    <!--Home Menu Color-->
+    <color name="dark_nfc">#1B5E20</color>
+    <color name="dark_qr">#01579B</color>
+    <color name="dark_history">#FF6F00</color>
+
+    <color name="dark_bg">#151515</color>
+
+</resources>

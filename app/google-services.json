@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168618021317",
+    "firebase_url": "https://app-contest-edd41.firebaseio.com",
+    "project_id": "app-contest-edd41",
+    "storage_bucket": "app-contest-edd41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168618021317:android:a2e42b6f98529c318afbac",
+        "android_client_info": {
+          "package_name": "com.example.yzuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168618021317-9v254aoivg2cuud9l63ouv40sk1n1r74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yzuapp",
+            "certificate_hash": "04a1f73c305b11b67c49fdadb99fff94fe868b83"
+          }
+        },
+        {
+          "client_id": "168618021317-juqqs9birpo1c7p2q346khc615ge330c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgAsxC7L8A_ZmP6Z1u0cWL4aBhrET7lNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168618021317-juqqs9birpo1c7p2q346khc615ge330c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
