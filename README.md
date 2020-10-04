@@ -9,8 +9,8 @@ APK下載:
  [YZU Pass](https://firebasestorage.googleapis.com/v0/b/app-contest-edd41.appspot.com/o/App%20download%2FYZU%20Pass%201.3.apk?alt=media&token=9ea21398-4c4e-4c31-a691-1f3cbb4f6ca3)
   [Reader-for-YZU-Pass](https://firebasestorage.googleapis.com/v0/b/app-contest-edd41.appspot.com/o/App%20download%2FReader%20For%20YZU%20Pass%201.1.apk?alt=media&token=2f8af8e0-26e5-49c6-a9cf-365fc234fc3d)
   
-參賽簡報:
-[Click me](https://docs.google.com/presentation/d/1dx3Vl-UNtdz96UgmfWYwQVplkkuLzVIopcWAjHmPwo8/edit?usp=sharing)
+參賽簡報: 
+[Google 簡報](https://docs.google.com/presentation/d/1dx3Vl-UNtdz96UgmfWYwQVplkkuLzVIopcWAjHmPwo8/edit?usp=sharing)
  
 *帳號註冊功能在Reader-for-YZU-Pass中的特殊路徑*
 
