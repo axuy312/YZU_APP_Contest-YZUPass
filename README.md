@@ -21,8 +21,8 @@ APK下載:
 ***
 ## 使用技術
 
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Android%20Studio.JPG)  
 ![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Firebase.JPG)  
+![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Android%20Studio.JPG)  
 ![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Mobile%20Vision.JPG)  
 
 ***
