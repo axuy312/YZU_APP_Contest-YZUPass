@@ -1,4 +1,4 @@
-# YZU_APP_Contest-YZUApp
+# YZU_APP_Contest-YZUPass
 
 刷卡模擬APP:
 [Github](https://github.com/axuy312/YZU_APP_Contest-Reader-for-YZU-Pass)
