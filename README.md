@@ -12,6 +12,7 @@ APK下載:
   
 參賽簡報: 
 [Google 簡報](https://docs.google.com/presentation/d/1dx3Vl-UNtdz96UgmfWYwQVplkkuLzVIopcWAjHmPwo8/edit?usp=sharing)
+[Microsoft PPT](https://1drv.ms/p/s!AnrsHqvXL52YgvgxXCSO4npLh_UXXQ?e=RO9aZY)
 
 ***
 
