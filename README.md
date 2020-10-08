@@ -27,7 +27,7 @@ APK下載:
 ***
 
 ## 流程圖
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/%E6%B5%81%E7%A8%8B%E5%9C%96.png)  
+![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/App%E7%AB%B6%E8%B3%BD%E6%B5%81%E7%A8%8B%E5%9C%96%E5%8E%BB%E8%83%8C.png)  
  
 ***
 ## 使用技術
