@@ -23,7 +23,6 @@ APK下載:
 
 影片展示: 
 [Firebase](https://firebasestorage.googleapis.com/v0/b/app-contest-edd41.appspot.com/o/Video%2FApp%20Video.mp4?alt=media&token=5c50b855-f64d-414f-9bfb-ca4c2cf03944)
-(Recommend Watching)
 [Youtube]()
 
 ***
