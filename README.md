@@ -9,13 +9,12 @@
 ### 團隊名稱 : 我想不到
 ### 團隊成員 : 王昇暉(1073302)、莊昀皓(1073338)、張軒澤(1073342)
 ### 友情贊助 : 石佑綸(1072654)、吳宜謙(1073340)
-## 名次 : 第一名 :1st_place_medal:
+### 名次 : 第一名 :1st_place_medal:
 
-## Our Target
-1. 我們致力於讓學生可以方便且自由的進出入學校，不再讓學生受到學生證遺失之苦。
-2. 我們希望能讓學校邁入數位化時代，增進管理效率和減少印製成本。
-3. 增加安全管理功能，隨時可以查看自己的刷卡記錄。
-
+## YZU Pass App Feature
+1. 我們致力於讓學生可以**方便且自由的進出入學校校館**，不再讓學生受到學生證遺失之苦。
+2. 我們希望能讓學校邁入數位化時代，**增進管理效率和減少印製成本**。
+3. 增加安全管理功能，隨時可以**查看自己的刷卡記錄**。
 
 刷卡模擬APP:
 [Github](https://github.com/axuy312/YZU_APP_Contest-Reader-for-YZU-Pass)
@@ -28,12 +27,10 @@ APK下載:
 [Google 簡報](https://docs.google.com/presentation/d/1dx3Vl-UNtdz96UgmfWYwQVplkkuLzVIopcWAjHmPwo8/edit?usp=sharing)
 [Microsoft PPT](https://1drv.ms/p/s!AnrsHqvXL52YgvgxXCSO4npLh_UXXQ?e=RO9aZY)
 
-影片展示: 
-[Firebase](https://firebasestorage.googleapis.com/v0/b/app-contest-edd41.appspot.com/o/Video%2FApp%20Video.mp4?alt=media&token=5c50b855-f64d-414f-9bfb-ca4c2cf03944)
-[Youtube]()
-[![Youtube](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/App%E5%89%B5%E6%84%8F%E7%AB%B6%E8%B3%BD%E5%B0%81%E9%9D%A216-9.png)](https://www.youtube.com/watch?v=p2P05yQpCD0)
+影片展示:
+[![Youtube](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Youtube%20Pic.png)](https://www.youtube.com/watch?v=p2P05yQpCD0)
 
-***
+
 
 ## 流程圖
 ![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/App%E7%AB%B6%E8%B3%BD%E6%B5%81%E7%A8%8B%E5%9C%96%E5%8E%BB%E8%83%8C.png)  
