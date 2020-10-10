@@ -52,6 +52,7 @@
 [Microsoft PPT](https://1drv.ms/p/s!AnrsHqvXL52YgvgxXCSO4npLh_UXXQ?e=RO9aZY)
 
 影片展示:
+![gif from nerdy.dev](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Hey%20see.gif)
 [![Youtube](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Youtube%20Pic2.png)](https://www.youtube.com/watch?v=p2P05yQpCD0)
 
 
