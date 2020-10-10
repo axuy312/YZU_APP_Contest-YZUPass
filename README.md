@@ -42,7 +42,7 @@
 [Microsoft PPT](https://1drv.ms/p/s!AnrsHqvXL52YgvgxXCSO4npLh_UXXQ?e=RO9aZY)
 
 影片展示:
-[![Youtube](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Youtube%20Pic.png)](https://www.youtube.com/watch?v=p2P05yQpCD0)
+[![Youtube](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Youtube%20Pic%20for%20Github.png)](https://www.youtube.com/watch?v=p2P05yQpCD0)
 
 ## Usage Example
 
