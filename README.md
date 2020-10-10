@@ -21,7 +21,7 @@
 
 ## Installation
 
-|   | YZU Pass | Reader for YZU Pass |
+|   | YZU Pass | Reader for YZU Pass (刷卡模擬APP) |
 | ------------- | ------------- | ------------ |
 | Requirement | Internet Connection、(Optional) NFC | Internet Connection、NFC、Camera |
 | Version | 1.3  | 1.1 |
@@ -29,11 +29,21 @@
 | Min Android | 6.0 (Marshmallow, API 23) | 4.2 (Ice Cream Sandwich, API 17) |
 | Release Date | 2020/03/23  | 2020/03/23 |
 | Download | [![YZU Pass](https://www.gstatic.com/devrel-devsite/prod/v36e9b4a2fdc696650f09851e8c880b958655492821ded3455f80aaef87b6b52b/firebase/images/lockup.png)](https://firebasestorage.googleapis.com/v0/b/app-contest-edd41.appspot.com/o/App%20download%2FYZU%20Pass%201.3.apk?alt=media&token=9ea21398-4c4e-4c31-a691-1f3cbb4f6ca3) | [![Reader for YZU Pass](https://www.gstatic.com/devrel-devsite/prod/v36e9b4a2fdc696650f09851e8c880b958655492821ded3455f80aaef87b6b52b/firebase/images/lockup.png)](https://firebasestorage.googleapis.com/v0/b/app-contest-edd41.appspot.com/o/App%20download%2FReader%20For%20YZU%20Pass%201.1.apk?alt=media&token=2f8af8e0-26e5-49c6-a9cf-365fc234fc3d) |
+| Source Code | [Github](https://github.com/axuy312/YZU_APP_Contest-YZUPass) | [Github](https://github.com/axuy312/YZU_APP_Contest-Reader-for-YZU-Pass) |
 
 
+## Usage Example
 
-刷卡模擬APP:
-[Github](https://github.com/axuy312/YZU_APP_Contest-Reader-for-YZU-Pass)
+- 使用者端
+1. 安裝 Reader for YZU Pass 並開啟進行帳號註冊(包含卡號)
+2. 切換至 YZU Pass 進行登入即可使用各項功能(需連接網路)
+
+**⚠帳號註冊功能在Reader-for-YZU-Pass中的特殊路徑**
+
+- 接收端
+1. 確認網路已連線
+2. 選取接收端需要進行哪類型方式傳輸 (NFC/QR)
+
 
 ## Demo
   
@@ -43,8 +53,6 @@
 
 影片展示:
 [![Youtube](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Youtube%20Pic%20for%20Github.png)](https://www.youtube.com/watch?v=p2P05yQpCD0)
-
-## Usage Example
 
 
 ## 流程圖
@@ -69,8 +77,3 @@
 ![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history.png)  
 ### ▼設定
 ![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png)  
-
- 
-**⚠帳號註冊功能在Reader-for-YZU-Pass中的特殊路徑**
-
-
