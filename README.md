@@ -10,7 +10,11 @@
 ### 團隊名稱 : 我想不到
 ### 團隊成員 : 王昇暉(1073302)、莊昀皓(1073338)、張軒澤(1073342)
 ### 友情贊助 : 石佑綸(1072654)、吳宜謙(1073340)
+
+## AWARD
 ### 名次 : 第一名 :1st_place_medal:
+### 新聞報導：[UDN 聯合新聞網](https://udn.com/news/story/6925/4513552)
+### 得獎首頁：[第三屆元智大學創意APP競賽得獎名單](https://app.yzu.edu.tw/index.php/zh/news-tw/19-app-5)
 
 
 ## YZU Pass App Feature
@@ -32,13 +36,14 @@
 | Source Code | [Github](https://github.com/axuy312/YZU_APP_Contest-YZUPass) | [Github](https://github.com/axuy312/YZU_APP_Contest-Reader-for-YZU-Pass) |
 
 
+
 ## Usage Example
 
 - 使用者端
 1. 安裝 Reader for YZU Pass 並開啟進行帳號註冊(包含卡號)
 2. 切換至 YZU Pass 進行登入即可使用各項功能(需連接網路)
 
-**⚠帳號註冊功能在Reader-for-YZU-Pass中的特殊路徑**
+**:warning::warning:帳號註冊功能在Reader-for-YZU-Pass中的特殊路徑:warning::warning:**
 
 - 接收端
 1. 確認網路已連線
@@ -67,13 +72,21 @@
 
 
 ## 實機畫面
-### ▼主頁面  
+### ▼ 主頁面  
 ![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Home.png)  
-### ▼個人化設定    
+### ▼ 個人化設定    
 ![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/edit.png)  
-### ▼NFC刷卡畫面
+### ▼ NFC 刷卡畫面
 ![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/NFC.jpg)  
-### ▼歷史紀錄
+### ▼ 歷史紀錄
 ![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history.png)  
-### ▼設定
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png)  
+### ▼ 設定
+![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png)
+### ▼ 登入夜面
+<img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/login.jpg" width="500">
+
+### ▼ QR Code 刷卡畫面
+<img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/qr.jpg" width="500">
+
+## 連結
+[第三屆元智大學創意APP競賽](https://app.yzu.edu.tw/index.php/zh/)
