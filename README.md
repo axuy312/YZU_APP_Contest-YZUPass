@@ -23,8 +23,8 @@
 * 增加安全管理功能，隨時可以**查看自己的刷卡記錄**。
 
 
-<h2> Installation <\h2>
-
+## Installation
+ 
 |   | YZU Pass | Reader for YZU Pass (刷卡模擬APP) |
 | ------------- | ------------- | ------------ |
 | Requirement | Internet Connection、(Optional) NFC | Internet Connection、NFC、Camera |
@@ -101,6 +101,8 @@
  <summary>設定</summary>
     <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png" />  
 </details></h3>
+
+---------
 
 <h2> 競賽連結 </h2>
 
