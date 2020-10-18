@@ -49,6 +49,7 @@
 1. 確認網路已連線
 2. 選取接收端需要進行哪類型方式傳輸 (NFC/QR)
 
+-------
 
 ## Demo
   
@@ -59,18 +60,22 @@
 影片展示:
 [![Youtube](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Youtube%20Pic2.png)](https://www.youtube.com/watch?v=p2P05yQpCD0)
 
+-------
 
-## 流程圖
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/App%E7%AB%B6%E8%B3%BD%E6%B5%81%E7%A8%8B%E5%9C%96%E5%8E%BB%E8%83%8C.png)  
- 
+<h2><details>
+ <summary>流程圖</summary>
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/App%E7%AB%B6%E8%B3%BD%E6%B5%81%E7%A8%8B%E5%9C%96%E5%8E%BB%E8%83%8C.png" />
+ </details></h2>
+------ 
 
-## 使用技術
+<h2><details>
+ <summary>使用技術</summary>
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Firebase.JPG" />
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Android%20Studio.JPG" />
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Mobile%20Vision.JPG" />
+</details></h2>
 
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Firebase.JPG)  
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Android%20Studio.JPG)  
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Mobile%20Vision.JPG)  
-
-
+----------
 
 
 ## 實機畫面
