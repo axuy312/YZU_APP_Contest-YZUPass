@@ -71,22 +71,37 @@
 ![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Mobile%20Vision.JPG)  
 
 
-## 實機畫面
-### ▼ 主頁面  
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Home.png)  
-### ▼ 個人化設定    
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/edit.png)  
-### ▼ NFC 刷卡畫面
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/NFC.jpg)  
-### ▼ 歷史紀錄
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history.png)  
-### ▼ 設定
-![image](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png)
-### ▼ 登入夜面
-<img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/login.jpg" width="500">
 
-### ▼ QR Code 刷卡畫面
-<img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/qr.jpg" width="500">
+
+## 實機畫面
+<h3><details>
+ <summary>登入夜面</summary>
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/login.jpg" />  
+</details></h3>
+<h3><details>
+ <summary>主頁面</summary>
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Home.png" />  
+</details></h3>
+<h3><details>
+ <summary>個人化設定</summary>
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/edit.png" />  
+</details></h3>
+<h3><details>
+ <summary>NFC 刷卡畫面</summary>
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/NFC.jpg" />  
+</details></h3>
+<h3><details>
+ <summary>QR Code 刷卡畫面</summary>
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/qr.jpg" />  
+</details></h3>
+<h3><details>
+ <summary>歷史紀錄</summary>
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history.png" />  
+</details></h3>
+<h3><details>
+ <summary>設定</summary>
+    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png" />  
+</details></h3>
 
 ## 連結
 [第三屆元智大學創意APP競賽](https://app.yzu.edu.tw/index.php/zh/)
