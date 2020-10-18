@@ -6,7 +6,7 @@
 
 -------
 
-## Info
+<h2> Info </h2>
 ### 作品名稱 : 一機在手 通行無阻
 ### 團隊名稱 : 我想不到
 ### 團隊成員 : 王昇暉(1073302)、莊昀皓(1073338)、張軒澤(1073342)
@@ -14,20 +14,21 @@
 
 ------
 
-## AWARD
+<h2> AWARD </h2>
 ### 名次 : 第一名 :1st_place_medal:
 ### 新聞報導：[UDN 聯合新聞網](https://udn.com/news/story/6925/4513552)
 ### 得獎首頁：[第三屆元智大學創意APP競賽得獎名單](https://app.yzu.edu.tw/index.php/zh/news-tw/19-app-5)
 
+-----
 
-## YZU Pass App Feature
+<h2> YZU Pass App Feature </h2>
 * 我們致力於讓學生可以**方便且自由的進出入學校校館**，不再讓學生受到學生證遺失之苦。
 * 我們希望能讓學校邁入數位化時代，**增進管理效率和減少印製成本**。
 * 增加安全管理功能，隨時可以**查看自己的刷卡記錄**。
 
 ------
 
-## Installation
+<h2> Installation <\h2>
 
 |   | YZU Pass | Reader for YZU Pass (刷卡模擬APP) |
 | ------------- | ------------- | ------------ |
@@ -41,7 +42,7 @@
 
 -----
 
-## Usage Example
+<h2> Usage Example </h2>
 
 - 使用者端
 1. 安裝 Reader for YZU Pass 並開啟進行帳號註冊(包含卡號)
@@ -55,7 +56,7 @@
 
 -------
 
-## Demo
+<h2> Demo </h2>
   
 參賽簡報: 
 [Google 簡報](https://docs.google.com/presentation/d/1dx3Vl-UNtdz96UgmfWYwQVplkkuLzVIopcWAjHmPwo8/edit?usp=sharing)
@@ -83,7 +84,7 @@
 ----------
 
 
-## 實機畫面
+<h2> 實機畫面 </h2>
 <h3><details>
  <summary>登入夜面</summary>
     <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/login.jpg" />  
@@ -113,5 +114,5 @@
     <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png" />  
 </details></h3>
 
-## 連結
+<h2> 連結 </h2>
 [第三屆元智大學創意APP競賽](https://app.yzu.edu.tw/index.php/zh/)
