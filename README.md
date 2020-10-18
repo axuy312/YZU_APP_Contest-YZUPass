@@ -19,14 +19,12 @@
 ### 新聞報導：[UDN 聯合新聞網](https://udn.com/news/story/6925/4513552)
 ### 得獎首頁：[第三屆元智大學創意APP競賽得獎名單](https://app.yzu.edu.tw/index.php/zh/news-tw/19-app-5)
 
------
 
 <h2> YZU Pass App Feature </h2>
 * 我們致力於讓學生可以**方便且自由的進出入學校校館**，不再讓學生受到學生證遺失之苦。
 * 我們希望能讓學校邁入數位化時代，**增進管理效率和減少印製成本**。
 * 增加安全管理功能，隨時可以**查看自己的刷卡記錄**。
 
-------
 
 <h2> Installation <\h2>
 
@@ -54,7 +52,6 @@
 1. 確認網路已連線
 2. 選取接收端需要進行哪類型方式傳輸 (NFC/QR)
 
--------
 
 <h2> Demo </h2>
   
@@ -65,24 +62,18 @@
 影片展示:
 [![Youtube](https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Youtube%20Pic2.png)](https://www.youtube.com/watch?v=p2P05yQpCD0)
 
--------
 
 <h2><details>
  <summary>流程圖</summary>
     <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/App%E7%AB%B6%E8%B3%BD%E6%B5%81%E7%A8%8B%E5%9C%96%E5%8E%BB%E8%83%8C.png" />
  </details></h2>
  
------- 
-
 <h2><details>
  <summary>使用技術</summary>
     <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Firebase.JPG" />
     <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Android%20Studio.JPG" />
     <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Mobile%20Vision.JPG" />
 </details></h2>
-
-----------
-
 
 <h2> 實機畫面 </h2>
 <h3><details>
@@ -114,5 +105,5 @@
     <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png" />  
 </details></h3>
 
-<h2> 連結 </h2>
+<h2> 競賽連結 </h2>
 [第三屆元智大學創意APP競賽](https://app.yzu.edu.tw/index.php/zh/)
