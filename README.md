@@ -75,31 +75,38 @@
 <h2> 實機畫面 </h2>
 <h3><details>
  <summary>登入夜面</summary>
-    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/login.jpg" />  
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/login.jpg" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/login_dark.jpg" />
 </details></h3>
 <h3><details>
  <summary>主頁面</summary>
-    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/Home.png" />  
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/home.png" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/home_dark.png" />
 </details></h3>
 <h3><details>
  <summary>個人化設定</summary>
-    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/edit.png" />  
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/edit.png" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/edit_dark.png" />
 </details></h3>
 <h3><details>
  <summary>NFC 刷卡畫面</summary>
-    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/NFC.jpg" />  
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/NFC.jpg" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/NFC_dark.jpg" />
 </details></h3>
 <h3><details>
  <summary>QR Code 刷卡畫面</summary>
-    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/qr.jpg" />  
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/qr.jpg" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/qr_dark.jpg" />
 </details></h3>
 <h3><details>
  <summary>歷史紀錄</summary>
-    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history.png" />  
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history.png" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history_dark.png" />
 </details></h3>
 <h3><details>
  <summary>設定</summary>
-    <img src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png" />  
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting_dark.png" />
 </details></h3>
 
 ---------
