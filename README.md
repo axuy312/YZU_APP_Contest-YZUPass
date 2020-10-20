@@ -83,13 +83,13 @@
 </details></h3>
 <h3><details>
  <summary>主頁面</summary>
-    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/home.png" />
-    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/home_dark.png" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/home.jpg" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/home_dark.jpg" />
 </details></h3>
 <h3><details>
  <summary>個人化設定</summary>
-    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/edit.png" />
-    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/edit_dark.png" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/edit.jpg" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/edit_dark.jpg" />
 </details></h3>
 <h3><details>
  <summary>NFC 刷卡畫面</summary>
@@ -103,13 +103,13 @@
 </details></h3>
 <h3><details>
  <summary>歷史紀錄</summary>
-    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history.png" />
-    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history_dark.png" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history.jpg" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/history_dark.jpg" />
 </details></h3>
 <h3><details>
  <summary>設定</summary>
-    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.png" />
-    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting_dark.png" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting.jpg" />
+    <img width="465" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/setting_dark.jpg" />
 </details></h3>
 
 ---------
