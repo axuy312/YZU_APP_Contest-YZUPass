@@ -77,7 +77,7 @@
 
 <h2> 實機畫面 </h2>
 <h3><details>
- <summary>登入夜面</summary>
+ <summary>登入頁面</summary>
     <img width="440" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/login.jpg" />
     <img width="440" height="840" src="https://github.com/axuy312/YZU_APP_Contest-YZUPass/blob/master/Description/login_dark.jpg" />
 </details></h3>
